@@ -1,4 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# White wine classification
 
-Pradhyumnan
+Group members: Chris Qiu, Elisabeth Chew, Logan McEvoy, Pradhyumnan Varadhan
